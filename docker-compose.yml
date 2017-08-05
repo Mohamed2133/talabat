@@ -1,0 +1,8 @@
+version: '2'
+
+services:
+  talabat:
+    image: talabat
+    build:
+      context: 
+      dockerfile: Dockerfile
